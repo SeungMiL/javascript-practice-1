@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/89256060/155127782-17508d53-82f4-47d7-b681-fd0c7f33fb01.JPG
+![practice-1](https://user-images.githubusercontent.com/89256060/155127782-17508d53-82f4-47d7-b681-fd0c7f33fb01.JPG)
 
 ###선비같은 공부자세보다 개처럼 공부하는게 더 효과가 좋은 저를 위해 게임 예제를 통해 자바스크립트와 친해지는걸 목표로 함
 
