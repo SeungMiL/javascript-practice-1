@@ -13,4 +13,4 @@
 5. innerText 와 textContent 의 차이점을 알게 됨
    * innerText 불필요한 공백제거 후 텍스트 갖고옴
    * textContent 모든 텍스트 그대로 가져옴
-6.Math.floor(Math.random()*100) 을 통해 1~100 안의 랜덤 번호를 지정하게끔 만듦
+6.Math.floor(Math.random()*100) 을 통해 1~100 안의 랜덤 번호를 지정하게끔 만
